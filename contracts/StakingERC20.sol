@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.4.22 <0.9.0;
-ß
+
 contract StakingERC20 {
     IERC20 public rewardsToken;
     IERC20 public stakingToken;
